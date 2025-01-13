@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(){
     int a=100;
-    printf("First term of dec ap = %d",a);
+    printf("First term of dec ap = %d\n",a);
     for(int i=1;a>0;i++){
         printf("no of term %d is = %d\n",i,a);
         a=a-3;
